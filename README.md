@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... react js, django, flutter, electron and next js
 - 🤔 I’m looking for help with ... mediasoup
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... musumbagerald98@gmail.com
+- 📫 How to reach me: ... www.linkedin.com/in/musumba-gerald
 - 😄 Pronouns: ... He/Him
