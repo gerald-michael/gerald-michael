@@ -1,5 +1,4 @@
-### Hi there am gerald 👋
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Welcome To My Little World!
+### Hi there, am gerald <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronnie-linslay-atuhaire-116108bb/" >
