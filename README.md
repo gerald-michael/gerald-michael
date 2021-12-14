@@ -1,4 +1,33 @@
 ### Hi there am gerald 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Welcome To My Little World!
+
+<div align="left">
+  <a href="https://twitter.com/AfroBoyUg" >
+    <img
+      src="https://img.shields.io/twitter/follow/AfroBoyUg?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ronnie-linslay-atuhaire-116108bb/" >
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Ronlin1.Ronlin1) 
+[![Github](https://img.shields.io/github/followers/Ronlin1?label=Follow&style=social)](https://github.com/Ronlin1)
+ 
+  <a href="https://app.daily.dev/AfroBoy" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/Ronlin1/Ronlin1/blob/main/devcard.svg" width="400" alt="Ronnie Atuhaire's Dev Card"
+    />
+  </a>
+</div>
+
+<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... nodejs mediasoup
