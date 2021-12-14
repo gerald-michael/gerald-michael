@@ -1,14 +1,14 @@
 ### Hi there, am gerald <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ronnie-linslay-atuhaire-116108bb/" >
+  <a href="https://www.linkedin.com/in/musumba-gerald/" >
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Ronlin1.Ronlin1) 
+![](https://visitor-badge.laobi.icu/badge?page_id=gerald-michael.gerald-michael) 
 [![Github](https://img.shields.io/github/followers/gerald-michael?label=Follow&style=social)](https://github.com/gerald-michael)
 </div>
 
