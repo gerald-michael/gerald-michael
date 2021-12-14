@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <br>
 ## &#x1f4c8; My GitHub Analytics
 <p align="">
-<a href="https://github.com/Ronlin1">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronlin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronlin1&layout=compact&langs_count=8&theme=merko"/>
+<a href="https://github.com/gerald-michael">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerald-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerald-michael&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
