@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 <br>
-## &#x1f4c8; My GitHub Analytics
+## My GitHub Analytics
 <p align="">
 <a href="https://github.com/gerald-michael">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerald-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
