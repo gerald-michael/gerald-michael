@@ -9,6 +9,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... www.linkedin.com/in/musumba-gerald
 - 😄 Pronouns: ... He/Him
 
+### My GitHub Analytics
+<p align="">
+<a href="https://github.com/gerald-michael">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerald-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerald-michael&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -31,13 +39,3 @@ Here are some ideas to get you started:
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
-
-
-<br/>
-## My GitHub Analytics
-<p align="">
-<a href="https://github.com/gerald-michael">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerald-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerald-michael&layout=compact&langs_count=8&theme=merko"/>
-</a>
-</p>
