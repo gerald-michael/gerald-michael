@@ -9,15 +9,7 @@
   </a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ronlin1.Ronlin1) 
-[![Github](https://img.shields.io/github/followers/Ronlin1?label=Follow&style=social)](https://github.com/Ronlin1)
- 
-  <a href="https://app.daily.dev/AfroBoy" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/Ronlin1/Ronlin1/blob/main/devcard.svg" width="400" alt="Ronnie Atuhaire's Dev Card"
-    />
-  </a>
+[![Github](https://img.shields.io/github/followers/gerald-michael?label=Follow&style=social)](https://github.com/gerald-michael)
 </div>
 
 <br />
