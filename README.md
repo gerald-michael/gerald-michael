@@ -32,5 +32,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 ## &#x1f4c8; My GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronlin1&show_icons=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronlin1&show_icons=true&theme=merko&align='right')](https://github.com/anuraghazra/github-readme-stats)
+<p align="">
+<a href="https://github.com/Ronlin1">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronlin1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronlin1&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
